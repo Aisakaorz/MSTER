@@ -1,2 +1,2 @@
-# T2TViT_EEGEmotionRecognition
-Use T2TViT on EEG Emotion Recognition
+# SwinTransformer_EEGEmotionRecognition
+Use Swin Transformer on EEG Emotion Recognition
